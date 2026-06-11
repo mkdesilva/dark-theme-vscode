@@ -1,25 +1,23 @@
-# Kiro Dark Theme
+# Violet Dusk
 
-A VS Code color theme that matches the Kiro theme.
+A dark violet colour theme for VS Code. Compatible with Kiro.
 
-## Screenshot
-
-![Kiro Dark Theme Screenshot](https://github.com/user-attachments/assets/0fe58b8f-6511-4cf7-a4db-37b08c41fa28)
+> **Disclaimer:** This extension is an independent, community-made project. It is **not** sponsored by, affiliated with, or endorsed by Amazon, AWS, or the Kiro team. "Kiro" is a trademark of Amazon Technologies, Inc.
 
 ## Installation
 
 1. Open VS Code
 2. Go to Extensions (`Ctrl+Shift+X` or `Cmd+Shift+X`)
-3. Search for "Kiro Dark Theme"
+3. Search for "Violet Dusk"
 4. Click Install
 
 ## Usage
 
 1. Open the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`)
 2. Type "Preferences: Color Theme"
-3. Select "Kiro Dark Theme" from the list
+3. Select "Violet Dusk" from the list
 
-Or go to `File > Preferences > Theme > Color Theme` and choose "Kiro Dark Theme".
+Or go to `File > Preferences > Theme > Color Theme` and choose "Violet Dusk".
 
 ## Requirements
 

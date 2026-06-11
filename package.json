@@ -1,13 +1,13 @@
 {
-    "name": "kiro-dark-theme",
-    "displayName": "Kiro Dark Theme",
-    "description": "Colour theme that matches Kiro",
+    "name": "violet-dusk-theme",
+    "displayName": "Violet Dusk",
+    "description": "A dark violet colour theme for VS Code. Compatible with Kiro. Not affiliated with, sponsored by, or endorsed by Amazon or AWS.",
     "license": "MIT",
-    "version": "1.0.3",
+    "version": "2.0.0",
     "publisher": "mkdesilva",
     "repository": {
     "type": "git",
-    "url": "https://github.com/mkdesilva/kiro-theme"
+    "url": "https://github.com/mkdesilva/violet-dusk-theme"
     },
     "icon": "icon.png",
     "engines": {
@@ -19,9 +19,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Kiro",
+                "label": "Violet Dusk",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Kiro-color-theme.json"
+                "path": "./themes/violet-dusk-color-theme.json"
             }
         ]
     }
